@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/arco-hvac-dashboard.jsx" }
+  ]
+}
